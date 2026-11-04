@@ -4,7 +4,7 @@ Windows 桌面应用下载与更新仓库。这里只发布使用说明、更新
 
 ## 下载
 
-[下载 Windows x64 免安装版 v0.20.0](https://github.com/qqweiyijianyi/panda-canvas/releases/tag/windows-v0.20.0)
+[下载 Windows x64 免安装版 v0.20.1](https://github.com/qqweiyijianyi/panda-canvas/releases/tag/windows-v0.20.1)
 
 完整解压 ZIP，保留整个文件夹，双击“熊猫漫剧.exe”。不需要安装 Node.js 或启动开发服务器。
 
