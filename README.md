@@ -15,7 +15,3 @@ Windows 桌面应用下载与更新仓库。这里只发布使用说明、更新
 - 升级时保留本机用户数据，建议先导出项目备份。当前通过本仓库手动下载更新，尚不支持应用内自动更新。
 - 软件尚未签名，Windows 可能提示未知发布者。
 - GitHub 附带的 Source code 压缩包只有本下载仓库说明；请下载 Release 中的 Windows 软件 ZIP。
-
-## 来源与许可
-
-基于 [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) 的 MIT 授权代码开发。上游 MIT、Electron 许可及 Chromium notices 保留在软件包中。
