@@ -4,7 +4,7 @@ Windows 桌面应用下载与更新仓库。这里只发布使用说明、更新
 
 ## 下载
 
-[下载 Windows x64 安装版 v0.20.4](https://github.com/qqweiyijianyi/panda-canvas/releases/download/windows-v0.20.4/PandaManju-Setup-0.20.4.exe)
+[下载 Windows x64 安装版 v0.20.5](https://github.com/qqweiyijianyi/panda-canvas/releases/download/windows-v0.20.5/PandaManju-Setup-0.20.5.exe)
 
 下载安装包并运行，按照提示完成安装。不需要安装 Node.js 或启动开发服务器。旧版免安装包可在历史发布中找到。
 
